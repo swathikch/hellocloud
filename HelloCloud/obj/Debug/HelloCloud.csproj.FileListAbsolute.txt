@@ -1,0 +1,6 @@
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloud\bin\Debug\HelloCloud.exe.config
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloud\obj\Debug\HelloCloud.csprojResolveAssemblyReference.cache
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloud\bin\Debug\HelloCloud.exe
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloud\bin\Debug\HelloCloud.pdb
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloud\obj\Debug\HelloCloud.exe
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloud\obj\Debug\HelloCloud.pdb

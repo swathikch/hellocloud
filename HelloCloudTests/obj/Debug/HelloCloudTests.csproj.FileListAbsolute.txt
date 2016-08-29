@@ -1,0 +1,9 @@
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\obj\Debug\HelloCloudTests.csprojResolveAssemblyReference.cache
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\bin\Debug\HelloCloudTests.dll
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\bin\Debug\HelloCloudTests.pdb
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\bin\Debug\HelloCloud.exe
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\bin\Debug\HelloCloud.pdb
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\obj\Debug\HelloCloudTests.dll
+D:\Development\sra-lab\HelloCloud-cSharp\HelloCloud\HelloCloudTests\obj\Debug\HelloCloudTests.pdb
